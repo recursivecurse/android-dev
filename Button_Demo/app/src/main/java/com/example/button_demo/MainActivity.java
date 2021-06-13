@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "Team A Wins", Toast.LENGTH_SHORT).show();
                 if(A_score < B_score)
                     Toast.makeText(MainActivity.this, "Team B Wins", Toast.LENGTH_SHORT).show();
-                else
+                if(A_score == B_score)
                     Toast.makeText(MainActivity.this, "Its a Tie", Toast.LENGTH_SHORT).show();
             }
         });
