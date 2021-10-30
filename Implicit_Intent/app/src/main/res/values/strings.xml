@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Implicit_Intent</string>
+    <string name="btn1">MAIL</string>
+    <string name="btn2">BROWSE</string>
+    <string name="btn3">DIAL</string>
+
+</resources>

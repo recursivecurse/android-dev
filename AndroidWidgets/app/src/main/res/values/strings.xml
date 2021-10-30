@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidWidgets</string>
+    <string name="textView">TextView1</string>
+    <string name="button">Button1</string>
+    <string name="editText"> </string>
+    <string name="checkBox">this is a checkbox</string>
+    <string name="rad1">Delhi</string>
+    <string name="rad2">Mumbai</string>
+    <string name="rad3">Bangalore</string>
+</resources>
